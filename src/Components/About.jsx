@@ -8,12 +8,13 @@ function About() {
                 <p className='text-4xl font-bold inline border-b-4 border-pink-400'> About</p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat aperiam praesentium numquam ipsum cumque cupiditate laudantium nihil quo at nesciunt assumenda repudiandae, tempora minima voluptate rem illum consectetur. Sit, facilis!
+               I have been honing my skills in front-end development and Servicenow for two years now. My expertise lies in utilizing technologies such as React, Bootstrap, Servicenow ITSM, and portal to create top-notch solutions. 
+             
             </p>
 
             <br/>
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem architecto minima saepe voluptatum ratione aliquam laboriosam repudiandae recusandae, dignissimos velit neque earum possimus doloribus distinctio harum eaque dicta. Porro, reiciendis?
+            Apart from coding, I find solace in writing poems, including web3 poetry. I am also an avid reader and derive inspiration from the works of philosophical giants such as Dostoevsky, Kafka, and Camus. Additionally, I enjoy exploring the rich cultural diversity reflected in postcolonial poems.
             </p>
         </div>
     </div>
