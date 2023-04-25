@@ -7,12 +7,12 @@ function Home() {
     return (
         <div name="home" className='flex h-screen w-full bg-gradient-to-b from-black via-black to-pink-800 '>
             <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
-                <div className='flex flex-col justify-center h-full'>
+                <div className='flex flex-col justify-center h-full '>
                     <h2 className='text-4xl sm:text-5xl font-bold text-white'>
                        I am a Front-end developer
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I have two 2 years of experience with Front-end and servicenow.
+                        I have  2 years of experience with Front-end and servicenow.
                         Currently, I am working with technologies such as React, Bootstrap,
                          Servicenow(ITSM and portal both)
                     </p>
@@ -28,7 +28,7 @@ function Home() {
                         </div>
                 </div>
                 <div>
-                    <img src={HeroImage} alt='profile' className='rounded-2xl mx-auto w-2/3 md:w-full' />
+                    <img src={HeroImage} alt='profile' className='rounded-2xl mx-auto  md:w-full md:mt-10 '/>
                 </div>
             </div>
         </div>
